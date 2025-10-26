@@ -14,7 +14,7 @@ jobs:
       - uses: MoCHivEE/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.MoCHivEE }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
@@ -22,4 +22,5 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
 
