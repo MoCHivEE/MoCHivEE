@@ -68,8 +68,9 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MoCHivEE.MoCHivEE&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MoCHivEE.MoCHivEE&"  />  <img src="https://emoji.discadia.com/emojis/074be01c-be7f-4d42-80db-bcdfd525f903.GIF" width="20" height="20"/>
 </div>
+
 
 
 
