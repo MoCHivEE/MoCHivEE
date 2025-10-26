@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram" style="margin: 0 20px;"/>
   </a>&nbsp;&nbsp;
   <a href="https://in.pinterest.com/mochivee27/_profile/" target="_blank">
-    <img src="pinterest-logo.png" width="40" height="40" alt="pinterest" style="margin: 0 20px;"/>
+    <img src="pinterest.png" width="40" height="40" alt="pinterest" style="margin: 0 20px;"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitch.tv/mochiveee" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="40" alt="twitch" style="margin: 0 20px;"/>
@@ -62,6 +62,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&sideNums=B866FF&currStreakLabel=E8B3FF&sideLabels=DBA6FF&dates=9D6AAF&background=0E0023" height="220" alt="streak graph"/>
 </div>
+
 
 
 
