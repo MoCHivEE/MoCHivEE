@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! I'm MoCHivEE <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/girl.gif" alt="girl" width="35" height="35"></h1>
+<h1 align="center">Hi there! I'm MoCHivEE <img src="./assets/girl.gif" alt="girl" width="35" height="35"></h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/design.gif" width="30" height="30"> Making Code & Designing Dreams <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/design.gif" width="30" height="30">
+  <img src="./assets/design.gif" width="30" height="30"> Making Code & Designing Dreams <img src="./assets/design.gif" width="30" height="30">
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/Panel.gif" alt="About Me Panel" width="100%">
+  <img src="./assets/Panel.gif" alt="About Me Panel" width="100%">
 </div>
 
 🔭 Currently working on: Creative design projects combining motion, branding, and web interactivity  
@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+  <img src="./profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
 </div>
 
 ---
