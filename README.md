@@ -1,3 +1,4 @@
+
 <h1 align="center"><img src="girl.gif" alt="girl" width="35" height="35"> Hi! I'm MoCHivEE <img src="girl.gif" alt="girl" width="35" height="35"></h1>
 
 <p align="center">
@@ -31,6 +32,13 @@
 ---
 
 <div align="center">
+  <img height="200" src="https://usagif.com/wp-content/uploads/funny-anime-gif-14.gif"  />
+</div>
+
+---
+
+
+<div align="center">
   <a href="https://discord.gg/https://discord.com/invite/sndFr5c6Hq" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="discord" style="margin: 0 20px;"/>
   </a>&nbsp;&nbsp;
@@ -56,6 +64,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="email" style="margin: 0 20px;"/>
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MoCHivEE.MoCHivEE&"  />
+</div>
+
 
 
 
