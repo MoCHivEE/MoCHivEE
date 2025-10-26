@@ -1,4 +1,4 @@
-<h1 align="center"><img src="girl.gif" alt="girl" width="35" height="35"> Hi ! I'm MoCHivEE <img src="girl.gif" alt="girl" width="35" height="35"></h1>
+<h1 align="center"><img src="girl.gif" alt="girl" width="35" height="35"> Hi! I'm MoCHivEE <img src="girl.gif" alt="girl" width="35" height="35"></h1>
 
 <p align="center">
   <img src="code.gif" width="20" height="20"><img src="design.gif" width="20" height="20"> MAKING CODE & DESIGNING DREAMS <img src="design.gif" width="20" height="20"><img src="code.gif" width="20" height="20">
@@ -56,6 +56,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="email" style="margin: 0 20px;"/>
   </a>
 </div>
+
 
 
 
