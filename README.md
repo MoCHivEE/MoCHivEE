@@ -1,18 +1,18 @@
 <h1 align="center"><img src="girl.gif" alt="girl" width="35" height="35"> Hi there! I'm MoCHivEE <img src="girl.gif" alt="girl" width="35" height="35"></h1>
 
 <p align="center">
-  <img src="code.gif" width="20" height="20"> Making Code & Designing Dreams <img src="code.gif" width="20" height="20">
+  <img src="code.gif" width="20" height="20"><img src="design.gif" width="20" height="20"> Making Code & Designing Dreams <img src="design.gif" width="20" height="20"><img src="code.gif" width="20" height="20">
 </p>
 
 <div align="center">
   <img src="Panel.gif" alt="About Me Panel" width="100%">
 </div>
 
-🔭 Currently working on: Creative design projects combining motion, branding, and web interactivity  
-👯 Looking to collaborate on: Branding, digital campaigns, motion graphics, and creative web experiences  
-🤝 Looking for help with: Expanding my freelance network and exploring new creative opportunities  
-🌱 Currently learning: Advanced web animations and modern UI/UX trends  
-💬 Ask me about: Design workflows, motion graphics, or bringing static ideas to life  
+<p>🔭 <b>Currently working on:</b> Creative design projects combining motion, branding, and web interactivity. </p>
+<p>👯 <b>Looking to collaborate on:</b> Branding, digital campaigns, motion graphics, and creative web experiences. </p>
+<p>🤝 <b>Looking for help with:</b> Expanding my freelance network and exploring new creative opportunities. </p>
+<p>🌱 <b>Currently learning:</b> Advanced web animations and modern UI/UX trends.  </p>
+<p>💬 <b>Ask me about:</b> Design workflows, motion graphics, or bringing static ideas to life.  </p>
 
 ---
 
@@ -62,6 +62,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&sideNums=B866FF&currStreakLabel=E8B3FF&sideLabels=DBA6FF&dates=9D6AAF&background=0E0023" height="220" alt="streak graph"/>
 </div>
+
 
 
 
