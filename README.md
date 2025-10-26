@@ -17,31 +17,11 @@
 ---
 
 <div align="center">
-  <a href="https://discord.gg/https://discord.com/invite/sndFr5c6Hq" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="discord"/>
-  </a>
-  <a href="https://facebook.com/Mochivee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook"/>
-  </a>
-  <a href="https://instagram.com/mochiveeowo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram"/>
-  </a>
-  <a href="https://in.pinterest.com/mochivee27/_profile/" target="_blank">
-    <img src="assets/pinterest-logo.png" width="40" height="40" alt="pinterest"/>
-  </a>
-  <a href="https://twitch.tv/mochiveee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="40" alt="twitch"/>
-  </a>
-  <a href="https://x.com/@mochivee_OwO" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter"/>
-  </a>
-  <a href="https://youtube.com/@@Mochiveestreams" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube"/>
-  </a>
-  <a href="mailto:mochivee27@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="email"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,html&theme=dark" height="40" alt="Skills"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" height="40" alt="Krita"/>
 </div>
+
 ---
 
 <div align="center">
@@ -55,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram"/>
   </a>
   <a href="https://in.pinterest.com/mochivee27/_profile/" target="_blank">
-    <img src="assets/pinterest-logo.png" width="40" height="40" alt="pinterest"/>
+    <img src="pinterest-logo.png" width="40" height="40" alt="pinterest"/>
   </a>
   <a href="https://twitch.tv/mochiveee" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="40" alt="twitch"/>
@@ -82,6 +62,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&sideNums=B866FF&currStreakLabel=E8B3FF&sideLabels=DBA6FF&dates=9D6AAF&background=0E0023" height="220" alt="streak graph"/>
 </div>
+
 
 
 
