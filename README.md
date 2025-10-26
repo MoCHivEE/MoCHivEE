@@ -26,28 +26,28 @@
 
 <div align="center">
   <a href="https://discord.gg/https://discord.com/invite/sndFr5c6Hq" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="discord"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="discord" style="margin: 0 10px;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://facebook.com/Mochivee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook" style="margin: 0 10px;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/mochiveeowo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram" style="margin: 0 10px;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://in.pinterest.com/mochivee27/_profile/" target="_blank">
-    <img src="pinterest-logo.png" width="40" height="40" alt="pinterest"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/pinterest/default.svg" width="40" height="40" alt="pinterest" style="margin: 0 10px;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://twitch.tv/mochiveee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="40" alt="twitch"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="40" alt="twitch" style="margin: 0 10px;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/@mochivee_OwO" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter" style="margin: 0 10px;"/>
+  </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@@Mochiveestreams" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="youtube" style="margin: 0 10px;"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:mochivee27@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="email"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="email" style="margin: 0 10px;"/>
   </a>
 </div>
 
@@ -62,6 +62,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&sideNums=B866FF&currStreakLabel=E8B3FF&sideLabels=DBA6FF&dates=9D6AAF&background=0E0023" height="220" alt="streak graph"/>
 </div>
+
 
 
 
