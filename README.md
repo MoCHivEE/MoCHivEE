@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! I'm MoCHivEE <img src="assets/girl.gif" alt="girl" width="35" height="35"></h1>
+<h1 align="center">Hi there! I'm MoCHivEE <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/girl.gif" alt="girl" width="35" height="35"></h1>
 
 <p align="center">
-  <img src="assets/design.gif" width="30" height="30"> Making Code & Designing Dreams <img src="assets/design.gif" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/design.gif" width="30" height="30"> Making Code & Designing Dreams <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/design.gif" width="30" height="30">
 </p>
 
 <div align="center">
-  <img src="assets/Panel.gif" alt="About Me Panel" width="100%" style="max-width: 800px">
+  <img src="https://raw.githubusercontent.com/MoCHivEE/MoCHivEE/main/assets/Panel.gif" alt="About Me Panel" width="100%">
 </div>
 
 🔭 Currently working on: Creative design projects combining motion, branding, and web interactivity  
@@ -17,13 +17,15 @@
 ---
 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=ps" width="20" height="20" alt="photoshop"/> <span style="background-color: #001e36; padding: 4px 8px; border-radius: 6px;"><strong>PHOTOSHOP</strong></span></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=ai" width="20" height="20" alt="illustrator"/> <span style="background-color: #330000; padding: 4px 8px; border-radius: 6px;"><strong>ILLUSTRATOR</strong></span></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=ae" width="20" height="20" alt="aftereffects"/> <span style="background-color: #00005b; padding: 4px 8px; border-radius: 6px;"><strong>AFTER EFFECTS</strong></span></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=pr" width="20" height="20" alt="premierepro"/> <span style="background-color: #00005b; padding: 4px 8px; border-radius: 6px;"><strong>PREMIERE PRO</strong></span></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="20" height="20" alt="webdesign"/> <span style="background-color: #e44d26; padding: 4px 8px; border-radius: 6px;"><strong>RESPONSIVE WEB DESIGN</strong></span></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="20" height="20" alt="canva"/> <span style="background-color: #009193; padding: 4px 8px; border-radius: 6px;"><strong>CANVA</strong></span></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" width="20" height="20" alt="krita"/> <span style="background-color: #3babff; padding: 4px 8px; border-radius: 6px;"><strong>KRITA</strong></span></a>
+  
+[![My Skills](https://skillicons.dev/icons?i=ps&theme=dark)](https://skillicons.dev) **`PHOTOSHOP`**
+[![My Skills](https://skillicons.dev/icons?i=ai&theme=dark)](https://skillicons.dev) **`ILLUSTRATOR`**
+[![My Skills](https://skillicons.dev/icons?i=ae&theme=dark)](https://skillicons.dev) **`AFTER EFFECTS`**
+[![My Skills](https://skillicons.dev/icons?i=pr&theme=dark)](https://skillicons.dev) **`PREMIERE PRO`**
+[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev) **`RESPONSIVE WEB DESIGN`**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="canva"/> **`CANVA`**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" width="40" height="40" alt="krita"/> **`KRITA`**
+
 </div>
 
 ---
@@ -67,10 +69,3 @@
   <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&sideNums=B866FF&currStreakLabel=E8B3FF&sideLabels=DBA6FF&dates=9D6AAF&background=0E0023" height="220" alt="streak graph"/>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&background=45%2C0E0023%2C400D50&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&currStreakLabel=E8B3FF&sideNums=B866FF&sideLabels=DBA6FF&dates=9D6AAF" height="220" alt="streak graph" />
-</div>
-
-###
