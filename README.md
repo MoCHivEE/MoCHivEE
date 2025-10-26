@@ -57,11 +57,10 @@
   <img src="./profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
 </div>
 
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&sideNums=B866FF&currStreakLabel=E8B3FF&sideLabels=DBA6FF&dates=9D6AAF&background=0E0023" height="220" alt="streak graph"/>
 </div>
+
 
 
 
