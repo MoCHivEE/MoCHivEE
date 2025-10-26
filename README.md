@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm MoCHivEE <img src="./assets/girl.gif" alt="girl" width="35" height="35"></h1>
+<h1 align="center">Hi there! I'm MoCHivEE <img src=".girl.gif" alt="girl" width="35" height="35"></h1>
 
 <p align="center">
   <img src="./assets/design.gif" width="30" height="30"> Making Code & Designing Dreams <img src="./assets/design.gif" width="30" height="30">
