@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="girl.gif" alt="girl" width="35" height="35"> Hi! I'm MoCHivEE <img src="girl.gif" alt="girl" width="35" height="35"></h1>
+<h1 align="center"><img src="girl.gif" alt="girl" width="35" height="35"> Hello hello! Welcome to my cute little space! <img src="girl.gif" alt="girl" width="35" height="35"></h1>
 
 <p align="center">
   <img src="code.gif" width="20" height="20"><img src="design.gif" width="20" height="20"> MAKING CODE & DESIGNING DREAMS <img src="design.gif" width="20" height="20"><img src="code.gif" width="20" height="20">
@@ -68,6 +68,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MoCHivEE.MoCHivEE&"  />  <img src="https://emoji.discadia.com/emojis/074be01c-be7f-4d42-80db-bcdfd525f903.GIF" width="20" height="20"/>
 </div>
+
 
 
 
