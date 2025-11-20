@@ -40,7 +40,7 @@
   <a href="https://discord.gg/https://discord.com/invite/sndFr5c6Hq" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="discord" style="margin: 0 20px;"/>
   </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/Mochivee" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61582435337205" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook" style="margin: 0 20px;"/>
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/mochiveeowo" target="_blank">
@@ -68,6 +68,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MoCHivEE.MoCHivEE&"  />  <img src="https://emoji.discadia.com/emojis/074be01c-be7f-4d42-80db-bcdfd525f903.GIF" width="20" height="20"/>
 </div>
+
 
 
 
