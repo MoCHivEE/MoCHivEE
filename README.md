@@ -26,12 +26,6 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MoCHivEE&theme=midnight-purple&hide_border=true&border_radius=5&ring=9F00FF&fire=AD00FF&currStreakNum=D200FF&sideNums=B866FF&currStreakLabel=E8B3FF&sideLabels=DBA6FF&dates=9D6AAF&background=0E0023" height="220" alt="streak graph"/>
-</div>
-
----
-
-<div align="center">
   <img height="200" src="https://usagif.com/wp-content/uploads/funny-anime-gif-14.gif"  />
 </div>
 
@@ -68,6 +62,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MoCHivEE.MoCHivEE&"  />  <img src="https://emoji.discadia.com/emojis/074be01c-be7f-4d42-80db-bcdfd525f903.GIF" width="20" height="20"/>
 </div>
+
 
 
 
